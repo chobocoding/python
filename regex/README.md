@@ -1,3 +1,8 @@
+# 파이썬 연습
+https://www.youtube.com/watch?v=UD9jqWeaRkg&list=PLnp1rUgG4UVbGVR1QPhR-tGGGne2xWAuB
+
+
+
 # 정규 표현식 정리
 
 ![regex](./regex.png)
